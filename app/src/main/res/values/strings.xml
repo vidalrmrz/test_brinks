@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="error_server">Error en el servidor</string>
+    <string name="error_internet_connection">Problemas de conexión a internet</string>
+    <string name="title_top">Top 20 most wanted apps</string>
+    <string name="order_az">Ordenar alfabéticamente</string>
+    <string name="order_date">Ordenar por Fecha</string>
+</resources>
