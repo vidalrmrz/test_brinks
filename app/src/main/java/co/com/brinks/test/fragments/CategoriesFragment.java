@@ -52,15 +52,12 @@ public class CategoriesFragment extends ParentFragments implements CategoriesAda
 
 
     public CategoriesFragment()
-    {
-        // Required empty public constructor
-    }
+    {}
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState)
     {
-        // Inflate the selector_icon_saldo_home for this fragment
         rootView = inflater.inflate(R.layout.fragment_categories, container, false);
         ButterKnife.bind(this, rootView);
 
